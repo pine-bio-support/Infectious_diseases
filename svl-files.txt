@@ -1,0 +1,7 @@
+/export-data/users/ftp/support@pine.bio/uploads/Malaria/SRR9869757_sorted_filtered.fq
+/export-data/users/ftp/support@pine.bio/uploads/Malaria/SRR9869758_sorted_filtered.fq
+
+
+
+/export-data/sciservice/data/pipelines/48d9d913eebe4ffe/tmp/logs_dir/jobs/HiSat2/NOTMAPPED/SRR9869757_sorted_filtered.fq
+/export-data/sciservice/data/pipelines/48d9d913eebe4ffe/tmp/logs_dir/jobs/HiSat2/NOTMAPPED/SRR9869758_sorted_filtered.fq
